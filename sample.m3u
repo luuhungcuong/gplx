@@ -1,0 +1,3 @@
+#EXTINF:0 tvg-id="vtv1hd" group-title="CH1" tvg-logo="https://dummyimage.com/420x320/ff7f7f/333333.png&text=Sample" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" ,VTV1       
+#EXTVLCOPT:http-user-agent="BearTV"
+https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4
