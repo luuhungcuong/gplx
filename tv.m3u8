@@ -162,6 +162,44 @@ https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTVLCOPT:http-user-agent="BearTV"
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-id="sctv1" tvg-logo="https://gg.gg/sctv-1" group-title="SCTV", SCTV1
+https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv2" tvg-logo="https://gg.gg/sctv-2" group-title="SCTV", SCTV2
+https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv3" tvg-logo="https://gg.gg/sctv-3" group-title="SCTV", SCTV3
+https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv4" tvg-logo="https://gg.gg/sctv-4" group-title="SCTV", SCTV4
+https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv6" tvg-logo="https://gg.gg/sctv-6" group-title="SCTV", SCTV6
+https://livecdn.fptplay.net/hda3/film360_vhls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv7" tvg-logo="https://gg.gg/sctv-7" group-title="SCTV", SCTV7
+https://vtsstr4.tv24.vn/live/SCTV_HD_SanKhau_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv8" tvg-logo="https://gg.gg/sctv-8" group-title="SCTV", SCTV8
+https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv9" tvg-logo="https://gg.gg/sctv-9" group-title="SCTV", SCTV9
+https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv11" tvg-logo="https://gg.gg/sctv-11" group-title="SCTV", SCTV11
+https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv12" tvg-logo="https://gg.gg/sctv-12" group-title="SCTV", SCTV12
+https://vtsstr4.tv24.vn/live/SCTV12_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv13" tvg-logo="https://gg.gg/sctv-13" group-title="SCTV", SCTV13
+https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv15" tvg-logo="https://gg.gg/sctv-15" group-title="SCTV", SCTV15
+http://vtsstr4.sctv.vn:1935/live/SCTV_HD_TheThao_new.smil/CDAM.m3u8
+#EXTINF:-1 tvg-id="sctv16" tvg-logo="https://gg.gg/sctv-16" group-title="SCTV", SCTV16
+https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv17" tvg-logo="https://gg.gg/sctv-17" group-title="SCTV", SCTV17
+https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv18" tvg-logo="https://gg.gg/sctv-18" group-title="SCTV", SCTV18
+https://vtsstr4.tv24.vn/live/SCTV18_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv19" tvg-logo="https://gg.gg/sctv-19" group-title="SCTV", SCTV19
+https://vtsstr4.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv20" tvg-logo="https://gg.gg/sctv-20" group-title="SCTV", SCTV20
+https://vtsstr4.tv24.vn/live/SCTV20_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctv22" tvg-logo="https://gg.gg/sctv-22" group-title="SCTV", SCTV22
+https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="sctvphim" tvg-logo="https://gg.gg/sctvhd" group-title="SCTV", SCTVPhimTH
+https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="hbohd" group-title="KÊNH PHIM" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/hbo_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", HBO
