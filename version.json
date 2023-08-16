@@ -1,7 +1,9 @@
 {
     "code": 32,
+    "androidCode": 32,
+    "iosCode": 33,
     "dataVersion": 1,
-    "name": "1.1.7",
+    "name": "1.1.8",
     "desc": "- Sửa lỗi\n- Bổ sung, cập nhật câu hỏi mới",
     "require": false
 }
