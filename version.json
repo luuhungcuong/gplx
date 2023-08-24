@@ -1,9 +1,9 @@
 {
-    "code": 39,
-    "androidCode": 39,
-    "iosCode": 39,
+    "code": 40,
+    "androidCode": 40,
+    "iosCode": 40,
     "dataVersion": 1,
-    "name": "1.2.2",
+    "name": "1.2.3",
     "desc": "- Sửa lỗi\n- Bổ sung, cập nhật câu hỏi mới",
     "require": false
 }
