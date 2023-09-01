@@ -1,9 +1,9 @@
 {
-    "code": 44,
-    "androidCode": 44,
-    "iosCode": 44,
+    "code": 45,
+    "androidCode": 45,
+    "iosCode": 45,
     "dataVersion": 1,
-    "name": "1.2.5",
-    "desc": "- Cải thiện giao diện",
+    "name": "1.2.6",
+    "desc": "- Sửa lỗi",
     "require": false
 }
