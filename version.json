@@ -1,9 +1,9 @@
 {
-    "code": 51,
-    "androidCode": 51,
-    "iosCode": 51,
+    "code": 53,
+    "androidCode": 53,
+    "iosCode": 53,
     "dataVersion": 1,
-    "name": "1.2.7",
+    "name": "1.2.8",
     "desc": "- Sửa lỗi câu hỏi\n- Cải thiện giao diện\n",
     "require": false
 }
