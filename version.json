@@ -1,9 +1,9 @@
 {
-    "code": 71,
-    "androidCode": 73,
-    "iosCode": 73,
+    "code": 74,
+    "androidCode": 74,
+    "iosCode": 74,
     "dataVersion": 1,
-    "name": "1.4.1",
-    "desc": "- Bổ sung thêm vị trí việc làm tại tổng cục\n",
+    "name": "1.4.2",
+    "desc": "- Sửa lỗi câu hỏi\n",
     "require": false
 }
