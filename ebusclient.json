@@ -1,9 +1,9 @@
 {
-    "code": 4,
-    "androidCode": 4,
-    "iosCode": 4,
+    "code": 8,
+    "androidCode": 8,
+    "iosCode": 8,
     "dataVersion": 1,
-    "name": "1.0.0",
+    "name": "1.0.3",
     "desc": "- Sửa lỗi\n",
     "require": false
 }
