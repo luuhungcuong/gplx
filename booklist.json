@@ -35,12 +35,36 @@
     "bookUrl": "https://online.flipbuilder.com/sdtta/xmia/",
     "title": "Sách học Cambridge cho trình độ Flyers"
   },
+    {
+    "name": "Oxford Phonics World 1",
+    "avatarUr": "https://cdn0.fahasa.com/media/catalog/product/9/7/9780194737999.jpg",
+    "bookUrl": "https://online.flipbuilder.com/mrfx/hfku/",
+    "title": "Oxford Phonics World 1"
+  },  
+     {
+    "name": "Oxford Phonics World 2",
+    "avatarUr": "https://cdn0.fahasa.com/media/catalog/product/9/7/9780194750387.jpg",
+    "bookUrl": "https://online.flipbuilder.com/mrfx/amsj/",
+    "title": "Oxford Phonics World 2"
+  },  
    {
     "name": "Oxford Phonics World 3",
     "avatarUr": "https://cdn0.fahasa.com/media/catalog/product/9/7/9780194750455.jpg",
     "bookUrl": "https://online.flipbuilder.com/mrfx/mcse/",
     "title": "Oxford Phonics World 3"
   },   
+    {
+    "name": "Oxford Phonics World 4",
+    "avatarUr": "https://cdn0.fahasa.com/media/catalog/product/9/7/9780194750523.jpg",
+    "bookUrl": "https://online.flipbuilder.com/mrfx/jzhb/",
+    "title": "Oxford Phonics World 4"
+  },   
+     {
+    "name": "Oxford Phonics World 5",
+    "avatarUr": "https://cdn0.fahasa.com/media/catalog/product/i/m/image_193966.jpg",
+    "bookUrl": "https://online.flipbuilder.com/mrfx/zdst/",
+    "title": "Oxford Phonics World 5"
+  },  
   {
     "name": "Explore our world 4",
     "avatarUr": "https://cdn0.fahasa.com/media/catalog/product/9/7/9780357373484.jpg",
