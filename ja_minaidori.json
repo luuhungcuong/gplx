@@ -1,386 +1,382 @@
-[
-    {
-        "word": "わたし",
-        "title": "Tôi"
-    },
-    {
-        "word": "あなた",
-        "title": "Anh/ chị/ ông/ bà,"
-    },
-    {
-        "word": "わたし",
-        "title": "Tôi"
-    },
-    {
-        "word": "あなた",
-        "title": "Anh/ chị/ ông/ bà,"
-    },
-    {
-        "word": "あのひと",
-        "title": "Người kia, người đó"
-    },
-    {
-        "word": "あのかた",
-        "title": "Vị kia"
-    },
-    {
-        "word": "～さん",
-        "title": "Anh, chị, ông, bà"
-    },
-    {
-        "word": "～ちゃん",
-        "title": "Bé (hậu tố thêm sau tên của bé gái)"
-    },
-    {
-        "word": "～じん",
-        "title": "Người (nước)"
-    },
-    {
-        "word": "せんせい",
-        "title": "Thầy/ cô"
-    },
-    {
-        "word": "きょうし",
-        "title": "Giáo viên"
-    },
-    {
-        "word": "がくせい",
-        "title": "Học sinh, sinh viên"
-    },
-    {
-        "word": "かいしゃいん",
-        "title": "Nhân viên công ty"
-    },
-    {
-        "word": "しゃいん",
-        "title": "Nhân viên công ty ~"
-    },
-    {
-        "word": "ぎんこういん",
-        "title": "Nhân viên ngân hàng"
-    },
-    {
-        "word": "いしゃ",
-        "title": "Bác sĩ"
-    },
-    {
-        "word": "けんきゅうしゃ",
-        "title": "Nhà nghiên cứu"
-    },
-    {
-        "word": "だいがく",
-        "title": "Đại học, trường đại học"
-    },
-    {
-        "word": "びょういん",
-        "title": "Bệnh viện"
-    },
-    {
-        "word": "だれ （どなた）(ですか）",
-        "title": "Ai (どなた: cách nói lịch sự của 「だれ」, vị nào)"
-    },
-    {
-        "word": "～さい",
-        "title": "～tuổi"
-    },
-    {
-        "word": "なんさい (おいくつ）ですか",
-        "title": "Mấy tuổi, bao nhiêu tuổi (「おいくつ」: cách nói lịch sự của「なんさい」)"
-    },
-    {
-        "word": "はい",
-        "title": "Vâng, dạ"
-    },
-    {
-        "word": "いいえ",
-        "title": "Không"
-    },
-    {
-        "word": "はじめまして。",
-        "title": "Rất hân hạnh được gặp anh/chị"
-    },
-    {
-        "word": "～からきました。",
-        "title": "(Tôi) đến từ ~."
-    },
-    {
-        "word": "どうぞよろしく",
-        "title": "Rất mong nhận được sự giúp đỡ của anh/chị."
-    },
-    {
-        "word": "しつれいですが",
-        "title": "Xin lỗi,..."
-    },
-    {
-        "word": "おなまえは？",
-        "title": "Tên anh/chị là gì?"
-    },
-    {
-        "word": "こちらは～さんです。",
-        "title": "Đây là anh/chị/ông/bà ~."
-    },
-    {
-        "word": "アメリカ",
-        "title": "Mỹ"
-    },
-    {
-        "word": "イギリス",
-        "title": "Anh"
-    },
-    {
-        "word": "インド",
-        "title": "Ấn Độ"
-    },
-    {
-        "word": "インドネシア",
-        "title": "Indonesia"
-    },
-    {
-        "word": "かんこく",
-        "title": "Hàn Quốc"
-    },
-    {
-        "word": "タイ",
-        "title": "Thái Lan"
-    },
-    {
-        "word": "ちゅうごく",
-        "title": "Trung Quốc"
-    },
-    {
-        "word": "ドイツ",
-        "title": "Đức"
-    },
-    {
-        "word": "にほん",
-        "title": "Nhật Bản"
-    },
-    {
-        "word": "ブラジル",
-        "title": "Braxin"
-    },
-    {
-        "word": "ごしゅっしん",
-        "title": "Quê"
-    },
-    {
-        "word": "スクリプト",
-        "title": "Lời thoại phần nghe"
-    },
-    {
-        "word": "フェ",
-        "title": "Huế"
-    },
-    {
-        "word": "カンボジア",
-        "title": "Campuchia"
-    },
-    {
-        "word": "ともだち",
-        "title": "Bạn bè"
-    },
-    {
-        "word": "おなじ",
-        "title": "Giống, tương đồng"
-    },
-    {
-        "word": "かいしゃ",
-        "title": "Công ty"
-    },
-    {
-        "word": "みなさん",
-        "title": "Mọi người"
-    },
-    {
-        "word": "ハノイ",
-        "title": "Hà Nội"
-    },
-    {
-        "word": "おくに",
-        "title": "Đất nước"
-    },
-    {
-        "word": "あのひと",
-        "title": "Người kia, người đó"
-    },
-    {
-        "word": "あのかた",
-        "title": "Vị kia"
-    },
-    {
-        "word": "～さん",
-        "title": "Anh, chị, ông, bà"
-    },
-    {
-        "word": "～ちゃん",
-        "title": "Bé (hậu tố thêm sau tên của bé gái)"
-    },
-    {
-        "word": "～じん",
-        "title": "Người (nước)"
-    },
-    {
-        "word": "せんせい",
-        "title": "Thầy/ cô"
-    },
-    {
-        "word": "きょうし",
-        "title": "Giáo viên"
-    },
-    {
-        "word": "がくせい",
-        "title": "Học sinh, sinh viên"
-    },
-    {
-        "word": "かいしゃいん",
-        "title": "Nhân viên công ty"
-    },
-    {
-        "word": "しゃいん",
-        "title": "Nhân viên công ty ~"
-    },
-    {
-        "word": "ぎんこういん",
-        "title": "Nhân viên ngân hàng"
-    },
-    {
-        "word": "いしゃ",
-        "title": "Bác sĩ"
-    },
-    {
-        "word": "けんきゅうしゃ",
-        "title": "Nhà nghiên cứu"
-    },
-    {
-        "word": "だいがく",
-        "title": "Đại học, trường đại học"
-    },
-    {
-        "word": "びょういん",
-        "title": "Bệnh viện"
-    },
-    {
-        "word": "だれ （どなた）(ですか）",
-        "title": "Ai (どなた: cách nói lịch sự của 「だれ」, vị nào)"
-    },
-    {
-        "word": "～さい",
-        "title": "～tuổi"
-    },
-    {
-        "word": "なんさい (おいくつ）ですか",
-        "title": "Mấy tuổi, bao nhiêu tuổi (「おいくつ」: cách nói lịch sự của「なんさい」)"
-    },
-    {
-        "word": "はい",
-        "title": "Vâng, dạ"
-    },
-    {
-        "word": "いいえ",
-        "title": "Không"
-    },
-    {
-        "word": "はじめまして。",
-        "title": "Rất hân hạnh được gặp anh/chị"
-    },
-    {
-        "word": "～からきました。",
-        "title": "(Tôi) đến từ ~."
-    },
-    {
-        "word": "どうぞよろしく",
-        "title": "Rất mong nhận được sự giúp đỡ của anh/chị."
-    },
-    {
-        "word": "しつれいですが",
-        "title": "Xin lỗi,..."
-    },
-    {
-        "word": "おなまえは？",
-        "title": "Tên anh/chị là gì?"
-    },
-    {
-        "word": "こちらは～さんです。",
-        "title": "Đây là anh/chị/ông/bà ~."
-    },
-    {
-        "word": "アメリカ",
-        "title": "Mỹ"
-    },
-    {
-        "word": "イギリス",
-        "title": "Anh"
-    },
-    {
-        "word": "インド",
-        "title": "Ấn Độ"
-    },
-    {
-        "word": "インドネシア",
-        "title": "Indonesia"
-    },
-    {
-        "word": "かんこく",
-        "title": "Hàn Quốc"
-    },
-    {
-        "word": "タイ",
-        "title": "Thái Lan"
-    },
-    {
-        "word": "ちゅうごく",
-        "title": "Trung Quốc"
-    },
-    {
-        "word": "ドイツ",
-        "title": "Đức"
-    },
-    {
-        "word": "にほん",
-        "title": "Nhật Bản"
-    },
-    {
-        "word": "ブラジル",
-        "title": "Braxin"
-    },
-    {
-        "word": "ごしゅっしん",
-        "title": "Quê"
-    },
-    {
-        "word": "スクリプト",
-        "title": "Lời thoại phần nghe"
-    },
-    {
-        "word": "フェ",
-        "title": "Huế"
-    },
-    {
-        "word": "カンボジア",
-        "title": "Campuchia"
-    },
-    {
-        "word": "ともだち",
-        "title": "Bạn bè"
-    },
-    {
-        "word": "おなじ",
-        "title": "Giống, tương đồng"
-    },
-    {
-        "word": "かいしゃ",
-        "title": "Công ty"
-    },
-    {
-        "word": "みなさん",
-        "title": "Mọi người"
-    },
-    {
-        "word": "ハノイ",
-        "title": "Hà Nội"
-    },
-    {
-        "word": "おくに",
-        "title": "Đất nước"
-    }
-]
+{
+    "name": "L1-Idori",
+    "language": "ja-JP",
+    "cards": [
+        {
+            "word": "わたし",
+            "title": "Tôi"
+        },
+        {
+            "word": "あなた",
+            "title": "Anh/ chị/ ông/ bà,"
+        },
+        {
+            "word": "あのひと",
+            "title": "Người kia, người đó"
+        },
+        {
+            "word": "あのかた",
+            "title": "Vị kia"
+        },
+        {
+            "word": "～さん",
+            "title": "Anh, chị, ông, bà"
+        },
+        {
+            "word": "～ちゃん",
+            "title": "Bé (hậu tố thêm sau tên của bé gái)"
+        },
+        {
+            "word": "～じん",
+            "title": "Người (nước)"
+        },
+        {
+            "word": "せんせい",
+            "title": "Thầy/ cô"
+        },
+        {
+            "word": "きょうし",
+            "title": "Giáo viên"
+        },
+        {
+            "word": "がくせい",
+            "title": "Học sinh, sinh viên"
+        },
+        {
+            "word": "かいしゃいん",
+            "title": "Nhân viên công ty"
+        },
+        {
+            "word": "しゃいん",
+            "title": "Nhân viên công ty ~"
+        },
+        {
+            "word": "ぎんこういん",
+            "title": "Nhân viên ngân hàng"
+        },
+        {
+            "word": "いしゃ",
+            "title": "Bác sĩ"
+        },
+        {
+            "word": "けんきゅうしゃ",
+            "title": "Nhà nghiên cứu"
+        },
+        {
+            "word": "だいがく",
+            "title": "Đại học, trường đại học"
+        },
+        {
+            "word": "びょういん",
+            "title": "Bệnh viện"
+        },
+        {
+            "word": "だれ （どなた）(ですか）",
+            "title": "Ai (どなた: cách nói lịch sự của 「だれ」, vị nào)"
+        },
+        {
+            "word": "～さい",
+            "title": "～tuổi"
+        },
+        {
+            "word": "なんさい (おいくつ）ですか",
+            "title": "Mấy tuổi, bao nhiêu tuổi (「おいくつ」: cách nói lịch sự của「なんさい」)"
+        },
+        {
+            "word": "はい",
+            "title": "Vâng, dạ"
+        },
+        {
+            "word": "いいえ",
+            "title": "Không"
+        },
+        {
+            "word": "はじめまして。",
+            "title": "Rất hân hạnh được gặp anh/chị"
+        },
+        {
+            "word": "～からきました。",
+            "title": "(Tôi) đến từ ~."
+        },
+        {
+            "word": "どうぞよろしく",
+            "title": "Rất mong nhận được sự giúp đỡ của anh/chị."
+        },
+        {
+            "word": "しつれいですが",
+            "title": "Xin lỗi,..."
+        },
+        {
+            "word": "おなまえは？",
+            "title": "Tên anh/chị là gì?"
+        },
+        {
+            "word": "こちらは～さんです。",
+            "title": "Đây là anh/chị/ông/bà ~."
+        },
+        {
+            "word": "アメリカ",
+            "title": "Mỹ"
+        },
+        {
+            "word": "イギリス",
+            "title": "Anh"
+        },
+        {
+            "word": "インド",
+            "title": "Ấn Độ"
+        },
+        {
+            "word": "インドネシア",
+            "title": "Indonesia"
+        },
+        {
+            "word": "かんこく",
+            "title": "Hàn Quốc"
+        },
+        {
+            "word": "タイ",
+            "title": "Thái Lan"
+        },
+        {
+            "word": "ちゅうごく",
+            "title": "Trung Quốc"
+        },
+        {
+            "word": "ドイツ",
+            "title": "Đức"
+        },
+        {
+            "word": "にほん",
+            "title": "Nhật Bản"
+        },
+        {
+            "word": "ブラジル",
+            "title": "Braxin"
+        },
+        {
+            "word": "ごしゅっしん",
+            "title": "Quê"
+        },
+        {
+            "word": "スクリプト",
+            "title": "Lời thoại phần nghe"
+        },
+        {
+            "word": "フェ",
+            "title": "Huế"
+        },
+        {
+            "word": "カンボジア",
+            "title": "Campuchia"
+        },
+        {
+            "word": "ともだち",
+            "title": "Bạn bè"
+        },
+        {
+            "word": "おなじ",
+            "title": "Giống, tương đồng"
+        },
+        {
+            "word": "かいしゃ",
+            "title": "Công ty"
+        },
+        {
+            "word": "みなさん",
+            "title": "Mọi người"
+        },
+        {
+            "word": "ハノイ",
+            "title": "Hà Nội"
+        },
+        {
+            "word": "おくに",
+            "title": "Đất nước"
+        },
+        {
+            "word": "あのひと",
+            "title": "Người kia, người đó"
+        },
+        {
+            "word": "あのかた",
+            "title": "Vị kia"
+        },
+        {
+            "word": "～さん",
+            "title": "Anh, chị, ông, bà"
+        },
+        {
+            "word": "～ちゃん",
+            "title": "Bé (hậu tố thêm sau tên của bé gái)"
+        },
+        {
+            "word": "～じん",
+            "title": "Người (nước)"
+        },
+        {
+            "word": "せんせい",
+            "title": "Thầy/ cô"
+        },
+        {
+            "word": "きょうし",
+            "title": "Giáo viên"
+        },
+        {
+            "word": "がくせい",
+            "title": "Học sinh, sinh viên"
+        },
+        {
+            "word": "かいしゃいん",
+            "title": "Nhân viên công ty"
+        },
+        {
+            "word": "しゃいん",
+            "title": "Nhân viên công ty ~"
+        },
+        {
+            "word": "ぎんこういん",
+            "title": "Nhân viên ngân hàng"
+        },
+        {
+            "word": "いしゃ",
+            "title": "Bác sĩ"
+        },
+        {
+            "word": "けんきゅうしゃ",
+            "title": "Nhà nghiên cứu"
+        },
+        {
+            "word": "だいがく",
+            "title": "Đại học, trường đại học"
+        },
+        {
+            "word": "びょういん",
+            "title": "Bệnh viện"
+        },
+        {
+            "word": "だれ （どなた）(ですか）",
+            "title": "Ai (どなた: cách nói lịch sự của 「だれ」, vị nào)"
+        },
+        {
+            "word": "～さい",
+            "title": "～tuổi"
+        },
+        {
+            "word": "なんさい (おいくつ）ですか",
+            "title": "Mấy tuổi, bao nhiêu tuổi (「おいくつ」: cách nói lịch sự của「なんさい」)"
+        },
+        {
+            "word": "はい",
+            "title": "Vâng, dạ"
+        },
+        {
+            "word": "いいえ",
+            "title": "Không"
+        },
+        {
+            "word": "はじめまして。",
+            "title": "Rất hân hạnh được gặp anh/chị"
+        },
+        {
+            "word": "～からきました。",
+            "title": "(Tôi) đến từ ~."
+        },
+        {
+            "word": "どうぞよろしく",
+            "title": "Rất mong nhận được sự giúp đỡ của anh/chị."
+        },
+        {
+            "word": "しつれいですが",
+            "title": "Xin lỗi,..."
+        },
+        {
+            "word": "おなまえは？",
+            "title": "Tên anh/chị là gì?"
+        },
+        {
+            "word": "こちらは～さんです。",
+            "title": "Đây là anh/chị/ông/bà ~."
+        },
+        {
+            "word": "アメリカ",
+            "title": "Mỹ"
+        },
+        {
+            "word": "イギリス",
+            "title": "Anh"
+        },
+        {
+            "word": "インド",
+            "title": "Ấn Độ"
+        },
+        {
+            "word": "インドネシア",
+            "title": "Indonesia"
+        },
+        {
+            "word": "かんこく",
+            "title": "Hàn Quốc"
+        },
+        {
+            "word": "タイ",
+            "title": "Thái Lan"
+        },
+        {
+            "word": "ちゅうごく",
+            "title": "Trung Quốc"
+        },
+        {
+            "word": "ドイツ",
+            "title": "Đức"
+        },
+        {
+            "word": "にほん",
+            "title": "Nhật Bản"
+        },
+        {
+            "word": "ブラジル",
+            "title": "Braxin"
+        },
+        {
+            "word": "ごしゅっしん",
+            "title": "Quê"
+        },
+        {
+            "word": "スクリプト",
+            "title": "Lời thoại phần nghe"
+        },
+        {
+            "word": "フェ",
+            "title": "Huế"
+        },
+        {
+            "word": "カンボジア",
+            "title": "Campuchia"
+        },
+        {
+            "word": "ともだち",
+            "title": "Bạn bè"
+        },
+        {
+            "word": "おなじ",
+            "title": "Giống, tương đồng"
+        },
+        {
+            "word": "かいしゃ",
+            "title": "Công ty"
+        },
+        {
+            "word": "みなさん",
+            "title": "Mọi người"
+        },
+        {
+            "word": "ハノイ",
+            "title": "Hà Nội"
+        },
+        {
+            "word": "おくに",
+            "title": "Đất nước"
+        }
+    ]
+}
