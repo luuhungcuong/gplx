@@ -16,5 +16,11 @@
     "avatarUr": "https://vcdn1-english.vnecdn.net/2023/01/14/tau161391535449509816615465533-1592-3009-1673670872.jpg?w=340&h=204&q=100&dpr=1&fit=crop&s=qDMN1YTHfJUrMOWVSiqgaQ",
      "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/main/it_n5.json",
     "title": "Từ vựng IT "
+  },
+     {
+    "name": "Từ chào hỏi",
+    "avatarUr": "https://static.independent.co.uk/2022/08/24/12/iStock-1146262403.jpg?quality=75&width=400&crop=3%3A2%2Csmart&auto=webp",
+     "bookUrl": "https://raw.githubusercontent.com/luuhungcuong/gplx/main/jp_chaohoi.json",
+    "title": "MINA+IRODORI từ vựng chào hỏi L2"
   }
 ]
