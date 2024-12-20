@@ -3,6 +3,90 @@
     "language": "ja-JP",
     "data": [
         {
+            "word": "兄(あに)",
+            "title": "Anh trai"
+        },
+        {
+            "word": "お兄(にい)さん",
+            "title": "Anh trai người khác"
+        },
+        {
+            "word": "姉(あね)",
+            "title": "Chị gái"
+        },
+        {
+            "word": "お姉(ねえ)さん",
+            "title": "Chị gái người khác"
+        },
+        {
+            "word": "弟(おとうと)",
+            "title": "Em trai"
+        },
+        {
+            "word": "弟(おとうと)さん",
+            "title": "Em trai người khác"
+        },
+        {
+            "word": "妹(いもうと)",
+            "title": "Em gái"
+        },
+        {
+            "word": "妹(いもうと)さん",
+            "title": "Em gái người khác"
+        },
+        {
+            "word": "夫(おっと)",
+            "title": "Chồng"
+        }, 
+        {
+            "word": "ご主人(しゅじん)",
+            "title": "Chồng người khác"
+        },
+        {
+            "word": "妻(つま)",
+            "title": "Vợ"
+        },
+        {
+            "word": "奥(おく)さん",
+            "title": "Vợ người khác"
+        },
+        {
+            "word": "息子(むすこ)",
+            "title": "Con trai"
+        },
+        {
+            "word": "息子(むすこ)さん",
+            "title": "Con trai người khác"
+        },
+        {
+            "word": "娘(むすめ)",
+            "title": "Con gái"
+        },
+        {
+            "word": "娘(むすめ)さん",
+            "title": "Con gái người khác"
+        },
+        {
+            "word": "子供(こども)",
+            "title": "Trẻ con"
+        },
+        {
+            "word": "男(おとこ)の",
+            "title": "Người đàn ông"
+        },
+        {
+            "word": "女(おんな)の",
+            "title": "Người con gái"
+        },
+        {
+            "word": "男(おとこ)の子(こ)",
+            "title": "Bé trai"
+        },
+        {
+            "word": "子供(こども)",
+            "title": "bé gái"
+        },
+        {
             "word": "切ります",
             "title": "きります  THIẾT  Cắt"
         },
